@@ -1,0 +1,23 @@
+{
+  "name": "creationsiteweb2",
+  "version": "0.0.1",
+  "description": "Exemple pour un cours",
+  "main": "exemplenode.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B00705446/creationsiteweb2.git"
+  },
+  "author": "B00705446",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/B00705446/creationsiteweb2/issues"
+  },
+  "homepage": "https://github.com/B00705446/creationsiteweb2#readme"
+}
